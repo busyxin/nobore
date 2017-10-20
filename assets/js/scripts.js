@@ -127,7 +127,7 @@ $(function () {
 // });
 
   $(window).load(function(){
-    $("#hornav").sticky({ topSpacing: 120 });
+    $("#hornav").sticky({ topSpacing: 165 });
   });
   $(window).load(function(){
     $("#header").sticky({ topSpacing: 0 });
